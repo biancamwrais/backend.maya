@@ -22,6 +22,15 @@ exports.login = async (req, res) => {
       if (p.length > 0) pacienteId = p[0].id;
     }
 
+    // AJUSTE À PROVA DE BALAS: Se a Vercel falhar em ler a variável, usamos um texto de emergência.
+    const segredo = process.env.JWT_SECRET || 'chave-de-emergencia-maya-rpg-2026';
+
+    const token = jwt.sign(
+      { id: usuario.id, perfil: usuario.perfil, pacienteId },
+      segredo,
+      { expiresIn: process.env.JWT_EXPIRES_IN || '7d' }
+    );
+
     res.json({
       token,
       usuario: {
