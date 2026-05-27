@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "maya-rpg-db528",
+  "private_key_id": "1ac0c3de36d4c1c0d9ebe707718adb03371ff6f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC90WnGy3v38TnL\ntNe8A+L2R45uQkNGYbGttzvJINUK2QN64B0raw0ky2eLJIduQDXQgUeiLc1cmtdz\nXA5Kx6ABF/SCykhsU+otAQr2STA3DllccVPGLsEPIrFVXE1ZrGDRtBU81TKytJxF\nnJCl18rcIPWy115olfqAl18D23gy3dQE8itZ7PiCcoVdVGm/kaWevINSqDEtJjqY\nK9+mzvSBhe9mOPIwOsWjbyKsNgFFsfzmWgNylNJkAO196A6MVGcJU8UhobEK+ekL\nF9zjJXdNC5CWh+C+fNzZGbxDc15N/Qam3iEwrsj180VibH9BED6JPUf5PRqClSPj\njyqqSgWzAgMBAAECggEACbCSf0Ds86O/SQxSxPjH0b2mYi+EwqeDC/SiGyrPZU3d\ntRySsKA23A18HCjBtxmVBa9LylYfOR54aB2nZx7YpqWj6DdOSiVge2qlthvXV8Am\nRKdOWPwTA+RH/C0Jj83SZXIVcXUKsP+ySIVtBuJEq0cNc9M1sQ4S6xSPF6HQ+Xut\n5E7H/XKPm7fuy18OO6P/T28mVnESXptWWS8ScTfDAdXS/0+RmG+IL3ACE6/3sZlx\nMLJSIeCaYjUSZXpr6v9QcPW0klYNEP5CMe2vIpkZYLIHYCjXhOweGZkyrCbefRH6\nRVOIlu91lul0ekSHxy6x3G7jRYZQCs/MKSq1rGnm5QKBgQDrkhx4NW4kVAuWXAxV\nwmb4p/4kwgJx0jPMrzAK2644IutvN0JCJakjg0mfxKT6AaNTG0+Vdm/IVz2q/17R\nRStAR/vuzevkgWEa+J9WbZkKDYWjreauawThekiP3M7gcKrCXtw3k7AzP5g35D3B\nCWf40RAx8kkrNfDSOq8eYmtXdwKBgQDOR4yPu/bY53bZU42DPCnz08bXpuwCB4YK\ni902ml5bJH+7NXZ8AcJeI6bUiYTosNIwkt+q6yOaiRLyt7YDDUsX0A/nxUHqdCVv\nhDpis9GG3CsNOWs8XkkwE5zZzu/kXmBIPLKHXPFiEhnAMKDU9040Q09aBcKmevzH\nbYFKD9AKpQKBgQDcHGYlnCcSIsXA9LlB2KfGZ5H8XptSJwrnkjndq26aXWaHQKbU\nj8P+vsmoU2GjiKxHFxnBmizQkVO512uNNog3RAuPEzH7DTjirrSTWUzKK+BXFEKb\nbrvcwxnR8owLArtLar9x3rmg6Scd8lIRcOyJfS8YvD7J9VjT1qmSRnvt+QKBgAZn\nvFqeOI0FqvAWoxdHH/pdQhhiK4PoneXn7+eJJZLo8Dps74/sMg/gRYbl+kWLcAto\nFB/ni0R6Kyd0QueXWxSTNls5CdHw51SuI237LW9lmMShWs4WE2m1wjIVNee+cnjr\nwZNodGpaK4iHOgdC4p/G00j1UtT+jqjWoqQdF5WtAoGAE8O8ajPvsx4b6tgU4xR7\nPwgY+lhtbTtw0W9H+756HaT2LhZvJLjpxljMgSWKZ2+0a0XIGjkOtWWPe/v4SrU+\noY3IMTgJ0L+A9J5bD7goAfaWLoK11hv1EtquYeivEPTnvNfIR/u7C2kvpVx5VYIF\nPnzicFRg22nfKiMQw7IQoeI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@maya-rpg-db528.iam.gserviceaccount.com",
+  "client_id": "116747279347870846275",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40maya-rpg-db528.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
