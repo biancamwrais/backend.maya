@@ -25,3 +25,4 @@ app.listen(PORT, '0.0.0.0', () => {
   console.log(`  - PC:       http://localhost:${PORT}`);
   console.log(`  - Celular:  http://192.168.0.159:${PORT}`);
 });
+module.exports = app;
