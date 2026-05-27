@@ -22,12 +22,6 @@ exports.login = async (req, res) => {
       if (p.length > 0) pacienteId = p[0].id;
     }
 
-    const token = jwt.sign(
-      { id: usuario.id, perfil: usuario.perfil, pacienteId },
-      process.env.JWT_SECRET,
-      { expiresIn: process.env.JWT_EXPIRES_IN || '7d' }
-    );
-
     res.json({
       token,
       usuario: {
